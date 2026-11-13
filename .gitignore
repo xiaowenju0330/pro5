@@ -1,0 +1,8 @@
+node_modules/
+dist/
+backend/dist/
+*.exe
+*.exe~
+leaderboard.json
+.playwright-cli/
+
